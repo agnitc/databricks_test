@@ -1,4 +1,9 @@
 -- Databricks notebook source
+-- MAGIC %md
+-- MAGIC <h1>TESTING OUT GIT NOTEBOOK FEATURES
+
+-- COMMAND ----------
+
 create or replace temp view temp_view(dummy) as values("abcd")
 
 -- COMMAND ----------
