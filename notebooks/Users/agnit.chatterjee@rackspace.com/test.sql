@@ -1,6 +1,6 @@
 -- Databricks notebook source
 -- MAGIC %md
--- MAGIC <h1>TESTING OUT GIT NOTEBOOK FEATURES
+-- MAGIC <h1>TESTING OUT GIT NOTEBOOK FEATURES PART 2
 
 -- COMMAND ----------
 
